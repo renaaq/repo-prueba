@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    font-family: "Raleway", sans-serif;
+}
+body {
+   
+    background-position: center center;
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+.titulo {
+    font-family: "Quicksand", sans-serif;
+    border: none;
+border-radius: 20px;
+font-size: 4em;
+text-align: center;
+margin-top: 20px;
+color: rgb(255, 255, 255);
+}
+
+
+#sobre-mi {
+    font-size: 20px;
+    color: aqua;
+    text-align: left;
+ padding: 2%;
+    
+}
+
+#sobre-mi .parrafosm {
+    color: white;
+}
+
+#experiencia{
+    text-align: center;
+    color: rgb(255, 255, 255);
+   margin: 20px;
+    font-family: sans-serif;
+    border: none;
+    border-radius: 40px;
+    padding-left: 10px;
+}
+
+#redes-sociales {
+    color: aqua;
+    padding-top: 50px;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.social-links a {
+    
+    padding-top: 50px;
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.2em;
+}
+ 
+
+.wrapper {
+    background-color: rgb(231, 135, 8);
+    color: darkblues;
+    background-image: url(pixelcut-export\ \(1\).jpeg); width: 100%;
+    justify-content: center;
+    justify-content: flex-start;
+}
+
+.subtitulosm {
+    color: aqua;
+    text-align: left;
+    font-size: 30px;
+}
+
+.parrafosm {
+    color: aqua;
+    text-align: left;
+}
+
+.sigueme {
+    color: aqua;
+    text-align: center;
+}
+
+.navbar {
+    font-style: normal;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 1px;
+}
+
+span {
+    color: aqua;
+}
+
+.menu { 
+    color: white;
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.menu a {
+    color: rgb(12, 234, 250);
+    text-decoration: underline;
+}
+
+.menu li{ 
+    list-style: none;
+}
+
+.home {
+    color: aqua;
+}
+
+.imagenss {
+    margin: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+
+}
